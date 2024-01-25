@@ -1,40 +1,39 @@
 # 🥕 팀명 : 도파민
 
 
-## 👀 서비스 소개
+## 서비스 소개
 * 서비스명:
-  *  Vscode 테마 추천 서비스
+  *  돌봄
 * 서비스설명:
-  *  사용자가 선호하는 컬러와 이미지를 입력 받아 해당 컬러 및 이미지 내부 컬러와 유사한 컬러를 가지는 Vscode 테마 추천 서비스 
+  *  유치원교사를 위한 OpenAI기반 업무관리서비스
 <br>
 
 ## 📅 프로젝트 기간
-- 2022.08.16 ~ 2022.09.07 (3주)
+- 2023.12.15 ~ 2024.01.24 (4주)
 <br>
 
 ## ⭐ 주요 기능
 
-### [🎥 시연 영상](https://youtu.be/RN_3gnuGoNQ)
+### [🎥 시연 영상]()
 
 <details>
 
-<summary>⭐색상 기반 테마 추천</summary>
+<summary></summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
 <img src="ReadMeImg/colorSelect.png"  alt="colorSelect"/>
 
 <br>
 
-- 유저는 메인페이지에서 Color Select 버튼을 통해 색상 선택 화면으로 이동할 수 있음.
-- 색상 선택 페이지에서 5개의 선호 컬러 및 자신의 주 사용 언어를 선택하고 버튼을 클릭하면 해당 색상과 유사한 색상을 가진 테마 8개를 추천 받을 수 있음
-- 추천 받은 페이지에서 테마 이름을 클릭하면 테마 상세보기 페이지로 이동함
-> [색상 기반 테마 추천 알고리즘 상세 설명](https://www.notion.so/1acc4fa14ba64faab8cace798c2adc7b#d7f451a54e1c4109941fea1c60223ee2)
+- 
+-
+- 
   
 </details>
 
 <details>
 
-<summary>⭐이미지 기반 테마 추천</summary>
+<summary></summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
 <img src="ReadMeImg/imageSelect.png"  alt="imageSelect"/>

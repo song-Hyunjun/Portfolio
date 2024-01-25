@@ -230,7 +230,7 @@
 <br>
 
 ## 📌 시스템 아키텍처(구조) 예시 
-<img src="ReadMeImg/systemA.png" alt="E-R Diagram" style="border-radius:15px"/>
+<img src=""/>
 <br>
 
 ## 📌 서비스 흐름도
@@ -238,62 +238,13 @@
 <br>
 
 ## 📌 E-R Diagram
-<img src="ReadMeImg/default_erd.png" alt="E-R Diagram" style="border-radius:15px"/>
+<img src=""/>
 <br>
 
 <!-- ## 🖥 화면 구성 -->
 <!-- 시연영상 잘라서  -->
 
-## 👨‍👩‍👦‍👦 팀원 역할
+## 팀원 역할
 <table>
-  <tr>
-    <!-- 정충근 -->
-    <td align="center"><img src="ReadMeImg/정충근.png" width="100" height="100"/></td>
-    <!-- 안지수 -->
-    <td align="center"><img src="ReadMeImg/안지수.png" width="100" height="100"/></td>
-    <!-- 강성훈 -->
-    <td align="center"><img src="ReadMeImg/강성훈.png" width="100" height="100"/></td>
-    <!-- 양서현 -->
-    <td align="center"><img src="ReadMeImg/양서현.png" width="100" height="100"/></td>
-    <!-- 김은지 -->
-    <td align="center"><img src="ReadMeImg/김은지.png" width="100" height="100"/></td>
-    <!-- 김화영 -->
-    <td align="center"><img src="ReadMeImg/김화영.png" width="100" height="100"/></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>정충근</strong></td>
-    <td align="center"><strong>안지수</strong></td>
-    <td align="center"><strong>강성훈</strong></td>
-    <td align="center"><strong>양서현</strong></td>
-    <td align="center"><strong>김은지</strong></td>
-    <td align="center"><strong>김화영</strong></td>
-  </tr>
-  <tr>
-    <!-- 정충근 -->
-    <td align="center"><b>• 기능개발 총괄</b></td>
-    <!-- 안지수 -->
-    <td align="center"><b>• 화면개발 총괄</b></td>
-    <!-- 강성훈 -->
-    <td align="center"><b>• DB설계 및 관리</b></td>
-    <!-- 양서현 -->
-    <td align="center"><b>• 화면개발 서브 <br> • 기능개발 서브</b></td>
-    <!-- 김은지 -->
-    <td align="center"><b>• 화면개발 서브 <br> • 기능개발 서브</b></td>
-    <!-- 김화영 -->
-    <td align="center"><b>• 화면개발 서브 <br> • 기능개발 서브</b></td>
-  </tr>
-  <tr>
-    <!-- 정충근 -->
-    <td align="center"><a href="https://github.com/PringlesHair" target='_blank'>github</a></td>
-    <!-- 안지수 -->
-    <td align="center"><a href="https://github.com/Scarlett0JS" target='_blank'>github</a></td>
-    <!-- 강성훈 -->
-    <td align="center"><a href="https://github.com/tmxjvm5" target='_blank'>github</a></td>
-    <!-- 양서현 -->
-    <td align="center"><a href="https://github.com/pyth1007" target='_blank'>github</a></td>
-    <!-- 김은지 -->
-    <td align="center"><a href="https://github.com/eunji78" target='_blank'>github</a></td>
-    <!-- 김화영 -->
-    <td align="center"><a href="https://github.com/dotoritoring" target='_blank'>github</a></td>
-  </tr>
+
 </table>

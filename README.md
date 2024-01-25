@@ -1,11 +1,10 @@
 # Portfolio
 > 안녕하세요 신입 개발자 송현준입니다.
-
 </br>
 
 ## :pushpin: Intro
-
-
+책임감있게 열심히하는 개발자 지망생 송현준입니다.
+열심히 하겠습니다.
 </br>
 
 ## :pushpin: Contact

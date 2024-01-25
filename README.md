@@ -74,6 +74,8 @@
   
 </details>
 
+<details>
+ 
 <summary>마이 페이지</summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->

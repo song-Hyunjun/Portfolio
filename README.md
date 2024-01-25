@@ -14,20 +14,18 @@
 
 ## 주요 기능
 
-### [🎥 시연 영상]()
+### [시연 영상]()
 
 <details>
 
-<summary></summary>
+<summary>ChatGPT를 활용한 일지 요약</summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
 <img src="ReadMeImg/colorSelect.png"  alt="colorSelect"/>
 
 <br>
 
-- 
--
-- 
+- 기간을 설정하면 교사가 기존에 작성해둔 일지를 3/1 분량으로 요약해주는 기능
   
 </details>
 

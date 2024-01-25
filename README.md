@@ -74,59 +74,12 @@
   
 </details>
 
-<details>
-
-<summary></summary>
-
-<!-- summary 아래 한칸 공백 두어야함 -->
-<img src="ReadMeImg/communityBoard.png"  alt="board"/>
-
-<br>
-
-  
-</details>
-
-<details>
-
-<summary></summary>
-
-<!-- summary 아래 한칸 공백 두어야함 -->
-<img src="ReadMeImg/themeBoard.png"  alt="theme"/>
-
-<br>
-
-- 
-  
-</details>
-
-<details>
-
 <summary>마이 페이지</summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
 <img src="ReadMeImg/myPage.png"  alt="mypage"/>
 
 <br>
-
-- 
-  
-</details>
-
-<details>
-
-<summary></summary>
-
-<!-- summary 아래 한칸 공백 두어야함 -->
-
-- 
-  
-</details>
-
-<details>
-
-<summary></summary>
-
-<!-- summary 아래 한칸 공백 두어야함 -->
 
 - 
   
@@ -219,8 +172,6 @@
             <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" style="border-radius:15px"/>
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" style="border-radius:15px"/>
             <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="border-radius:15px"/>
-            <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="border-radius:15px"/>
-            <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="border-radius:15px"/>
         </td>
     </tr>
     
@@ -234,7 +185,7 @@
 <br>
 
 ## 📌 서비스 흐름도
-<img src="ReadMeImg/서비스흐름도.png">
+<img src="">
 <br>
 
 ## 📌 E-R Diagram

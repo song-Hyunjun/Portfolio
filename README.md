@@ -130,7 +130,6 @@
             <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="border-radius:15px"/> 
             <img src="https://img.shields.io/badge/Jsp-007396?style=for-the-badge&logo=java&logoColor=white" style="border-radius:15px"/>
             <img src="https://img.shields.io/badge/Ajax-007396?style=for-the-badge&logo=java&logoColor=white" style="border-radius:15px"/>
-            <img src="https://img.shields.io/badge/jstl-007396?style=for-the-badge&logo=java&logoColor=white" style="border-radius:15px"/>
             <img src="https://img.shields.io/badge/MyBatis-007396?style=for-the-badge&logo=java&logoColor=white" style="border-radius:15px"/>
         </td>
     </tr>
@@ -147,7 +146,6 @@
             <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" style="border-radius:15px"/>
             <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white" style="border-radius:15px"/>
             <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logoColor=white" style="border-radius:15px"/>
-            <img src="https://img.shields.io/badge/dbeaver-003B57?style=for-the-badge&logoColor=white" style="border-radius:15px"/>
             <img src="https://img.shields.io/badge/sql developer-003B57?style=for-the-badge&logoColor=white" style="border-radius:15px"/>
         </td>
     </tr>
@@ -160,7 +158,6 @@
     <tr>
         <td>라이브러리</td>
         <td>
-            <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" style="border-radius:15px"/>        
             <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" style="border-radius:15px"/>
             <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" wstyle="border-radius:15px"/>
             <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" style="border-radius:15px"/>
